@@ -2,8 +2,6 @@ another file is created
 hello
 
 updated in brach and committed123211
-
-updated in brach and committed123211
 fddsfdv
 hi new content added to master
 
