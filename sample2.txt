@@ -1,6 +1,10 @@
 another file is created 
 hello
 
+<<<<<<< HEAD
 updated in brach and committed123211
 fddsfdv
 hi new content added to master
+=======
+updated in brach and committed
+>>>>>>> 2e63c3b (changes to sample2)
